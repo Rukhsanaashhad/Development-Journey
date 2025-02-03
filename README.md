@@ -17,13 +17,11 @@ Day 6: Faced and resolved deployment issues.
 Day 7: Successfully launched the website with strong performance metrics.
 📊 Performance Report
 The website was tested using GTmetrix, achieving:
+
 ✅ 89% Performance Score (Good speed and optimization)
 ✅ 94% Structure Score (Well-structured code and layout)
 ✅ LCP: 1.8s (Fast page load)
 ✅ TBT: 21ms (Low delay in interactivity)
 ✅ CLS: 0.01 (Stable page layout)
 
-📥 Download Full Report
-For a detailed breakdown of the development process, download the full PDF report:
 
-📄 Download PDF
